@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\memeverse_be.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "su7BLnLSGG8=",
+  "success": true,
+  "projectFilePath": "D:\\work\\memeverse\\memeverse_be\\memeverse_be\\memeverse_be.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quangthang\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\quangthang\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
