@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("memeverse_be")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90ba0bfcd061ed61b16f818beff83d054f718cd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289f6a327c9f3d577021fbf87b4a98d954c06d92")]
 [assembly: System.Reflection.AssemblyProductAttribute("memeverse_be")]
 [assembly: System.Reflection.AssemblyTitleAttribute("memeverse_be")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
